@@ -41,7 +41,7 @@ As recomendações priorizam iniciativas que podem aumentar a satisfação e mel
 
 ## Principais Insights
 
-![Tabela de Insights](imagens/principais_insights.png)
+![Tabela de Insights](resultados/principais_insights.png)
 
 ---
 
